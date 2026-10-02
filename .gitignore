@@ -1,0 +1,6 @@
+# Release zip is built from the plugin folder and attached to GitHub releases
+*.zip
+# Local copy of the stock plugin used by the test harness
+upstream/
+desktop.ini
+Thumbs.db
